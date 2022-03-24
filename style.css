@@ -7,7 +7,13 @@ body {
   background-color: rgb(41, 39, 39);
   color: rgb(253, 253, 253);
 }
-
+.abouttext {
+  font-style: normal;
+  text-align: center;
+  font-size: 2.5em;
+  margin: 2.5em;
+  text-shadow: 0 0 2px rgb(8, 8, 8);
+}
 .name {
   font-style: normal;
   text-align: center;
