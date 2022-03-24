@@ -1,0 +1,54 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(41, 39, 39);
+    color: rgb(253, 253, 253);
+}
+.name{
+    font-style: normal;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 5em;
+    margin-top: 2.5em;
+    
+}
+.bio{
+    color: rgb(187, 52, 52);    
+}
+.button{
+    background-color: rgb(172, 28, 28);
+    padding: 20px;
+    text-align-last: left;
+    text-decoration: none; 
+}
+.button a{
+    padding: 10px;
+    text-decoration: none;
+    color: wheat;
+}
+.footer{
+    background-color: rgb(112, 112, 112);
+    padding: 35px;
+    align-content: flex-end;
+    border: 1px;
+    clear: right
+}
+.footer a{
+    color: wheat;
+    text-decoration: none;
+    padding: 8px;
+}
+
+.flex-container .image{
+    width: 30em;
+    height: 30em;
+    border-radius: 50em;
+    margin: 5px 25px 5px 0px;
+    float: right;
+}
+.bio{
+    text-align: center;
+}
