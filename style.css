@@ -60,6 +60,9 @@ body {
   align-content: flex-end;
   border: 1px;
   clear: right;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
 .footer a {
@@ -69,9 +72,9 @@ body {
 }
 
 .flex-container .image {
-  width: 30em;
-  height: 30em;
+  width: 25em;
+  height: 25em;
   border-radius: 50em;
-  margin: 5px 25px 5px 0px;
+  margin: 18px 25px 5px 0px;
   float: right;
 }
